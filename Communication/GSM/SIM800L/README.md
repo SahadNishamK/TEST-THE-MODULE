@@ -296,14 +296,10 @@ Never skip step 1.
 
 `TEST THE MODULE`
 A practical testing series for:
-
-Microcontrollers
-
-Sensors
-
-Communication modules
-
-Embedded hardware
+• Microcontrollers
+• Sensors
+• Communication modules
+• Embedded hardware
 
 ### 🛠️ License
 
