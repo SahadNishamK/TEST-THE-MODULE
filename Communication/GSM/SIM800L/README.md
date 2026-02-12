@@ -173,7 +173,7 @@ These test codes help you:
 | SIM800L Pin | Connection |
 |------------|------------|
 | MIC+ / MIC− | External microphone |
-| SPK+ / SPK− | External 8Ω speaker |
+| SPK+ / SPK− | External 8Ω speaker (0.25W to 1W) |
 
 ---
 
